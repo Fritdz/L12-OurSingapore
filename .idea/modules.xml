@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/L10-NDPSongs-CustomLV.iml" filepath="$PROJECT_DIR$/.idea/modules/L10-NDPSongs-CustomLV.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/L10-NDPSongs-CustomLV.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/L10-NDPSongs-CustomLV.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/L12_OurSingapore.iml" filepath="$PROJECT_DIR$/.idea/modules/L12_OurSingapore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/L12_OurSingapore.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/L12_OurSingapore.app.iml" />
     </modules>
   </component>
 </project>

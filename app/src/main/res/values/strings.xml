@@ -4,7 +4,7 @@
     <string name="hint_title">Enter Island Name here</string>
     <string name="singers">Description</string>
     <string name="hint_singers">Enter Island description here</string>
-    <string name="year">Area in square km</string>
+    <string name="year">Square km</string>
     <string name="hint_year">Enter Area in square km here</string>
     <string name="stars">Stars</string>
     <string name="five">5</string>

@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AndroidLayouts">
-    <shared>
-      <config />
-    </shared>
-  </component>
-  <component name="AndroidLogFilters">
-    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
-  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="NONE" />
   </component>
@@ -30,61 +22,49 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6292d9ae-0af8-4666-b503-089debce66eb" name="Default Changelist" comment="Enhancements">
+    <list default="true" id="902196fb-da1d-4e11-b400-b74f091be516" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/modules/L12_OurSingapore.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/app/L12_OurSingapore.app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/markdown-navigator-enh.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/markdown-navigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/L10-NDPSongs-CustomLV.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/app/L10-NDPSongs-CustomLV.app.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/com/myapplicationdev/android/p10_ndpsongs_clv/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/myapplicationdev/android/p12_ourSingapore_20033454/ExampleInstrumentedTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/myapplicationdev/android/p10_ndpsongs_clv/CustomAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/myapplicationdev/android/p12_ourSingapore_20033454/CustomAdapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/myapplicationdev/android/p10_ndpsongs_clv/DBHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/myapplicationdev/android/p12_ourSingapore_20033454/DBHelper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/myapplicationdev/android/p10_ndpsongs_clv/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/myapplicationdev/android/p12_ourSingapore_20033454/MainActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/myapplicationdev/android/p10_ndpsongs_clv/SecondActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/myapplicationdev/android/p12_ourSingapore_20033454/SecondActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/myapplicationdev/android/p10_ndpsongs_clv/Song.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/myapplicationdev/android/p12_ourSingapore_20033454/Song.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/myapplicationdev/android/p10_ndpsongs_clv/ThirdActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/myapplicationdev/android/p12_ourSingapore_20033454/ThirdActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/test/java/com/myapplicationdev/android/p10_ndpsongs_clv/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/com/myapplicationdev/android/p12_ourSingapore_20033454/ExampleUnitTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[VirtualDevicePath@C:\Users\20033454\.android\avd\Nexus_5X_API_30_1.avd]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-        <option value="layoutResourceFile_vertical" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1vsgkGhXRIxb7ysSsmVAxproerS" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="1wWIyVVY9FPQBrbbSfWl100Jyrj" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="VirtualDevicePath@C:\Users\20033454\.android\avd\Nexus_5X_API_30_1.avd" />
-    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2021-07-27T06:49:43.693925500Z" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
-  </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\20033454\AndroidStudioProjects\L11\OurNDPSongs\app\src\main\res\drawable-v24" />
-    </key>
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
@@ -95,7 +75,7 @@
       </method>
     </configuration>
     <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
-      <module name="L10-NDPSongs-CustomLV.app" />
+      <module name="L12_OurSingapore.app" />
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
       <option name="DEPLOY_AS_INSTANT" value="false" />
@@ -156,27 +136,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="6292d9ae-0af8-4666-b503-089debce66eb" name="Default Changelist" comment="" />
-      <created>1627356352453</created>
+      <changelist id="902196fb-da1d-4e11-b400-b74f091be516" name="Default Changelist" comment="" />
+      <created>1628568173351</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1627356352453</updated>
+      <updated>1628568173351</updated>
     </task>
-    <task id="LOCAL-00001" summary="Lesson 10">
-      <created>1627360539551</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1627360539554</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Enhancements">
-      <created>1627970573771</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1627970573771</updated>
-    </task>
-    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -189,65 +154,11 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Lesson 10" />
-    <MESSAGE value="Enhancements" />
-    <option name="LAST_COMMIT_MESSAGE" value="Enhancements" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="520" y="236" key="#Notifications" timestamp="1628566265858">
+    <state x="286" y="158" key="#PSD" timestamp="1628568231290">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="520" y="236" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1628566265858" />
-    <state x="958" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1627358919588">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="958" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1627358919588" />
-    <state x="725" y="100" width="715" height="630" key="AVDManager" timestamp="1627368896956">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="725" y="100" width="715" height="630" key="AVDManager/0.0.1536.824@0.0.1536.824" timestamp="1627368896956" />
-    <state x="698" y="170" key="AndroidCreateResourceFileDialog" timestamp="1628564310834">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="698" y="170" key="AndroidCreateResourceFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1628564310834" />
-    <state x="729" y="203" key="FileChooserDialogImpl" timestamp="1628566636283">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="729" y="203" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1628566636283" />
-    <state x="910" y="132" key="Github.ShareDialog" timestamp="1628566506869">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="910" y="132" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1628566506869" />
-    <state x="813" y="120" key="Github.UntrackedFilesDialog" timestamp="1628566512153">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="813" y="120" key="Github.UntrackedFilesDialog/0.0.1536.824@0.0.1536.824" timestamp="1628566512153" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1628565812472">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1628565812472" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1628565812472">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1628565812472" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1628565812472">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1628565812472" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1628565812472">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1628565812472" />
-    <state x="555" y="57" key="SettingsEditor" timestamp="1628566487520">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="555" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1628566487520" />
-    <state x="722" y="148" key="Vcs.Push.Dialog.v2" timestamp="1627970576673">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="722" y="148" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1627970576673" />
+    <state x="286" y="158" key="#PSD/0.0.1536.824@0.0.1536.824" timestamp="1628568231290" />
   </component>
 </project>
