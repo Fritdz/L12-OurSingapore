@@ -30,13 +30,26 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6292d9ae-0af8-4666-b503-089debce66eb" name="Default Changelist" comment="Enhancements" />
+    <list default="true" id="6292d9ae-0af8-4666-b503-089debce66eb" name="Default Changelist" comment="Enhancements">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/com/myapplicationdev/android/p10_ndpsongs_clv/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/myapplicationdev/android/p12_ourSingapore_20033454/ExampleInstrumentedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/myapplicationdev/android/p10_ndpsongs_clv/CustomAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/myapplicationdev/android/p12_ourSingapore_20033454/CustomAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/myapplicationdev/android/p10_ndpsongs_clv/DBHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/myapplicationdev/android/p12_ourSingapore_20033454/DBHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/myapplicationdev/android/p10_ndpsongs_clv/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/myapplicationdev/android/p12_ourSingapore_20033454/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/myapplicationdev/android/p10_ndpsongs_clv/SecondActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/myapplicationdev/android/p12_ourSingapore_20033454/SecondActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/myapplicationdev/android/p10_ndpsongs_clv/Song.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/myapplicationdev/android/p12_ourSingapore_20033454/Song.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/myapplicationdev/android/p10_ndpsongs_clv/ThirdActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/myapplicationdev/android/p12_ourSingapore_20033454/ThirdActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/com/myapplicationdev/android/p10_ndpsongs_clv/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/com/myapplicationdev/android/p12_ourSingapore_20033454/ExampleUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[VirtualDevicePath@C:\Users\20033454\.android\avd\Nexus_5X_API_30_1.avd]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -54,9 +67,10 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1vsgkGhXRIxb7ysSsmVAxproerS" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -64,6 +78,7 @@
     <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2021-07-27T06:49:43.693925500Z" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
@@ -198,18 +213,18 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="698" y="170" key="AndroidCreateResourceFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1628564310834" />
-    <state x="729" y="203" key="FileChooserDialogImpl" timestamp="1627360635440">
+    <state x="729" y="203" key="FileChooserDialogImpl" timestamp="1628566636283">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="729" y="203" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1627360635440" />
-    <state x="910" y="132" key="Github.ShareDialog" timestamp="1628566257046">
+    <state x="729" y="203" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1628566636283" />
+    <state x="910" y="132" key="Github.ShareDialog" timestamp="1628566506869">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="910" y="132" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1628566257046" />
-    <state x="813" y="120" key="Github.UntrackedFilesDialog" timestamp="1627968482114">
+    <state x="910" y="132" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1628566506869" />
+    <state x="813" y="120" key="Github.UntrackedFilesDialog" timestamp="1628566512153">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="813" y="120" key="Github.UntrackedFilesDialog/0.0.1536.824@0.0.1536.824" timestamp="1627968482114" />
+    <state x="813" y="120" key="Github.UntrackedFilesDialog/0.0.1536.824@0.0.1536.824" timestamp="1628566512153" />
     <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1628565812472">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

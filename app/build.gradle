@@ -5,7 +5,7 @@ android {
     buildToolsVersion "29.0.3"
 
     defaultConfig {
-        applicationId "com.myapplicationdev.android.p10_ndpsongs_clv"
+        applicationId "com.myapplicationdev.android.p12_ourSingapore_20033454"
         minSdkVersion 16
         targetSdkVersion 29
         versionCode 1

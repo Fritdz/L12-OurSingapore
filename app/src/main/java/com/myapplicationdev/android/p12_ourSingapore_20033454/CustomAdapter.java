@@ -1,7 +1,6 @@
-package com.myapplicationdev.android.p10_ndpsongs_clv;
+package com.myapplicationdev.android.p12_ourSingapore_20033454;
 
 import android.content.Context;
-import android.text.Layout;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -11,7 +10,6 @@ import android.widget.RatingBar;
 import android.widget.TextView;
 
 import androidx.annotation.NonNull;
-import androidx.annotation.Nullable;
 
 import java.util.ArrayList;
 
